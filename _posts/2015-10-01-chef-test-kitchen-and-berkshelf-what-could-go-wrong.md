@@ -3,6 +3,7 @@ layout: post
 title: "Chef, Test-Kitchen, and Berkshelf. What could go wrong?"
 author: Mário Rui Santos
 modified:
+excerpt: "An awesome set of tools to assist cookbook development."
 date: 2015-10-01
 comments: true
 ---
