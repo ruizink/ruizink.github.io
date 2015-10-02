@@ -12,7 +12,7 @@ An awesome set of tools to assist cookbook development.
 <br>
 When I found out about this awesome combination of tools, I immediately thought that this was the perfect set for developers to test their cookbooks. (I still do!)
 
-This set of tools, when combined, will vastly improve your cookbook development workflow. I will allow you to fully test your cookbooks locally, without messing around with actual boxes from your estate.
+This set of tools, when combined, will vastly improve your cookbook development workflow. It will allow you to fully test your cookbooks locally, without messing around with actual boxes from your estate.
 
 <div style="text-align:center" markdown="1">
 ![chef_kitchenci_berkshelf](/images/chef_kitchenci_berkshelf.png)
