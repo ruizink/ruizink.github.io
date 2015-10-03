@@ -33,5 +33,4 @@ about_path: about.html
 
 BASE_PATH:
 
-rss_feed: feed.xml
 gems: [jekyll-paginate]
