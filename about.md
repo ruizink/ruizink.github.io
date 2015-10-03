@@ -20,7 +20,7 @@ I currently play the role of Infrastructure Automation Engineer at Blip.pt (Betf
 Apart from that, I have way too many hobbies: from photography all the way to rc helicopter flying.
 
 <br>
-Can't really finish without stating a huge fact: I'm really lucky to live and work surrounded by a dozen of absolute ninjas. They inspire me, they share the same enthusiasm, and that's nothing but pure awesomeness.
+Can't really finish without staying: I'm really lucky to live and work surrounded by a dozen of absolute ninjas. They inspire me, they share the same enthusiasm, and that's nothing but pure awesomeness.
 
 <br>
 **Later chaps!**
