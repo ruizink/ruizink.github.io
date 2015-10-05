@@ -107,7 +107,7 @@ application_cookbook   0.0.1   1.0.0   2.0.0
 <br>
 Given those metadata files, Berkshelf will vendor the latest cookbooks available: `wrapper_cookbook-1.2.1` and `application_cookbook-2.0.0`.
 
-It's easy to predict that by the time Chef Zero loads the environment, it tries to converge using the `wrapper_cookbook-1.2.1` and `application_cookbook-1.0.0` (the versions specified in the Chef environment) and it fails, because Berkshelf didn't vendor the version 2.0.0 of the application_cookbook:
+It's easy to predict that by the time Chef Zero loads the environment, it tries to converge using the `wrapper_cookbook-1.2.1` and `application_cookbook-1.0.0` (the versions specified in the Chef environment) and it fails, because Berkshelf didn't vendor the version 1.0.0 of the application_cookbook:
 
 {% highlight bash %}
 Missing Cookbooks:
